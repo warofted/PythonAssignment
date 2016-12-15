@@ -1,0 +1,150 @@
+
+#wrapper{
+ height: 100%;
+ width: 100%;
+ background-color: #517797 ;
+ margin: 0px auto;
+ padding-top: 5px;
+
+}
+#Python-header{
+  height: 100px;
+  width: 300px;
+  display:inline-block;
+  }
+ .boxed {
+   border: 1px;
+ }
+ .whitetext{
+   color: white;
+ }
+ .yellowtext{
+   color: yellow;
+ }
+#Searchsection{
+  height: 50px;
+  width: 200px;
+  background-color:#517797;
+  margin-left: 250px;
+  display:inline-block;
+  vertical-align: top;
+}
+#searchbar{
+  height: 25px;
+  width: 225px;
+  background-color: gray;
+  display: inline-block;
+}
+#topnavibar {
+  height: 40px;
+  width: 800px;
+  background-color: #6D889E;
+  margin: 10px, 0px, 0px, 100px;
+  display: inline-block;
+  align: center;
+  border-radius: 10px;
+
+}
+#topnavibar p {
+  display: inline;
+  text-align: center;
+  margin-left: 30px;
+
+
+}
+#centralcontent{
+  height: 300px;
+  width: 100%;
+  background-color: #517797  ;
+  display: inline-block;
+  vertical-align: top;
+}
+#sidenavibar{
+  height:200px;
+  width: 150px;
+  background-color: #517797  ;
+  display: inline-block;
+  margin-left: 30px;
+  margin-right: 10px;
+  vertical-align: top;
+
+}
+#sidenavibar p {
+  display: inline-block;
+  margin-left: 50px;
+  text-align: center;
+
+}
+#maincontent{
+
+  height: 250px;
+  width: 400px;
+  background-color: #517797  ;
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: top;
+
+
+}
+#mcdescription{
+  height: 75px;
+  width: 450px;
+  background-color: #517797;
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: top;
+}
+#mcdesctiption p {
+  display: static;
+  text-align: center;
+  margin-left: 30px;
+
+}
+#mcquote{
+  height: 150px;
+  width: 450px;
+  background-color: #517797  ;
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: top;
+
+}
+#mcquote p {
+  display: static;
+  text-align: center;
+  margin-left: 30px;
+}
+#Contentinfo{
+  height: 200px;
+  width: 100%;
+  background-color: white;
+  display: inline-block;
+}
+#Gettingstarted{
+  height: 200px;
+  width: 200px;
+  background-color: white  ;
+  display: inline-block;
+  margin-left: 100px;
+  text-align: center;
+  vertical-align: top;
+}
+#Applications{
+  height: 200px;
+  width: 200px;
+  background-color: white  ;
+  display: inline-block;
+  margin-left: 150px;
+  text-align: center;
+}
+#botinfobar{
+  margin-top: 100px;
+  height: 50px;
+  width: 100%;
+  background-color: #517797  ;
+}
+#botinfobar p{
+  display: inline;
+  margin-left: 50px;
+
+}
